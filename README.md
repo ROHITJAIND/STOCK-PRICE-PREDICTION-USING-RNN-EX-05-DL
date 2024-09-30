@@ -88,7 +88,8 @@ plt.show()
 ##### Mean Square Error
 ```Python
 from sklearn.metrics import mean_squared_error as mse
-mse(y_test,predicted_stock_price)
+print('ROHIT JAIN D')
+print(mse(y_test,predicted_stock_price))
 ```
 ### Output
 
